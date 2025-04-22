@@ -9,7 +9,7 @@ Just run the script and it will tell you how many days are left 😎
 
 ## 🧪 Sample Output
 
-```bash
 🏫 Still 38 day(s) left until your last day at the Latin School of Chicago!  
 ☀️ Hang in there — summer break is coming!
 
+![Summer Break Countdown](https://github.com/christinkiyeonkim/summer_break_counter/blob/main/images/summer.jpg?raw=true)
